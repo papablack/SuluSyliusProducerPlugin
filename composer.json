@@ -10,7 +10,7 @@
         "symfony/config": "^4.1",
         "symfony/dependency-injection": "^4.1",
         "symfony/http-kernel": "^4.1",
-        "symfony/serializer": "^4.1"
+        "symfony/serializer": "^5.1"
     },
     "require-dev": {
         "behat/behat": "^3.4",
